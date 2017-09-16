@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.generic_7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.jstl_1.2.2">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="WEB-INF/lib"/>
+			<attribute name="owner.project.facets" value="jst.web.jstl"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/apache-mime4j-core-0.7.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axiom-api-1.2.20.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axiom-dom-1.2.20.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axiom-impl-1.2.20.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axiom-jaxb-1.2.20.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-adb-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-adb-codegen-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-ant-plugin-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-clustering-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-codegen-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-corba-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-fastinfoset-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-java2wsdl-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-jaxbri-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-jaxws-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-jibx-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-json-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-kernel-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-metadata-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-mtompolicy-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-saaj-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-soapmonitor-servlet-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-spring-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-transport-base-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-transport-http-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-transport-jms-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-transport-local-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-transport-mail-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-transport-tcp-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-transport-udp-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-transport-xmpp-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/axis2-xmlbeans-1.7.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/bcel-findbugs-6.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/commons-fileupload-1.3.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/geronimo-annotation_1.0_spec-1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/geronimo-jaxws_2.2_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/geronimo-jta_1.1_spec-1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/geronimo-saaj_1.3_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/geronimo-stax-api_1.0_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/geronimo-ws-metadata_2.0_spec-1.1.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/jalopy-1.5rc3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/jaxb-api-2.2.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/jaxb-impl-2.2.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/jaxb-xjc-2.2.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/jaxen-1.1.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/jaxws-tools-2.2.6.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/jettison-1.3.8.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/jibx-bind-1.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/jibx-run-1.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/juli-6.0.16.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/mex-1.7.6-impl.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/neethi-3.0.3.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/stax2-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/tribes-6.0.16.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/woden-core-1.0M10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/woodstox-core-asl-4.2.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/xalan-2.7.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/xml-resolver-1.2.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/xmlbeans-2.5.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/axis/xmlschema-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/fastjson-1.2.20.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/xom-1.2.10.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/json/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/ehcache-1.5.0.jar"/>
+	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
+</classpath>
